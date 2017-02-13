@@ -1,12 +1,15 @@
 Data Management Plan for experiments in ASD mice
 
 Folder Organisation
-- initial folders will reflect the grant/brain area
-- 
+- root folders reflect the grant/brain area
+- then Aims of each grant
+
 
 Prefrontal-Cortex (Marsden)
+Aim-1-Spontaneous-activity-in-the-PFC-during-development
 
 Auditory-Cortex (AMRF/NF)
+Aim-1-Spontaneous-activity-in-the-AC-during-development
 
 Juliette Cheyne
 Version 1.0
