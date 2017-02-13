@@ -1,0 +1,12 @@
+Data Management Plan for experiments in ASD mice
+
+Folder Organisation
+- initial folders will reflect the grant/brain area
+- 
+
+Prefrontal-Cortex (Marsden)
+
+Auditory-Cortex (AMRF/NF)
+
+Juliette Cheyne
+Version 1.0
