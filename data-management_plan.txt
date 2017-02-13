@@ -1,15 +1,33 @@
 Data Management Plan for experiments in ASD mice
+************************************************
+
+Aims
+****
+-To use in vivo calcium imaging and whole cell recording to gain a better understanding of how brain activity patterns are altered during development in ASD mice.
+-To access sound processing in sensory and higher order brain areas in ASD mice.
+
+
+Grants
+******
+- Neurological Foundation Repartiation Fellowship, 3711437, 01/10/16, 2 years
+- Auckland Medical Research Foundation, 3711296, 01/10/16, 2 years
+- Marsden Fast Start, 3711103, 01/03/17, 3 years
 
 Folder Organisation
+*******************
 - root folders reflect the grant/brain area
 - then Aims of each grant
+-
 
+Prefrontal-Cortex (Marsden/ )
 
-Prefrontal-Cortex (Marsden)
 Aim-1-Spontaneous-activity-in-the-PFC-during-development
 
-Auditory-Cortex (AMRF/NF)
+Auditory-Cortex (AMRF/3711296 and NF/3711437)
+
 Aim-1-Spontaneous-activity-in-the-AC-during-development
+
+***************************************************
 
 Juliette Cheyne
 Version 1.0
